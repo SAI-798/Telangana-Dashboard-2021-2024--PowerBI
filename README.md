@@ -38,11 +38,12 @@ This project is an interactive Power BI dashboard developed to analyze Telangana
 *(Add screenshots of your dashboard here after uploading.)*
 
 ## 👨‍💻 Author
-**Your Name**
+**SAI LAKSHMI RAJULAPATI**
 
-B.Tech (Information Technology)
+B.Tech in CSE [DATA SCIENCE]
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/SAI-798
+LINKEDIN: https: https://www.linkedin.com/in/sai-lakshmi-rajulapati/
 
 ---
 
