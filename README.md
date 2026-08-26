@@ -43,6 +43,7 @@ This project is an interactive Power BI dashboard developed to analyze Telangana
 B.Tech in CSE [DATA SCIENCE]
 
 GitHub: https://github.com/SAI-798
+
 LINKEDIN: https: https://www.linkedin.com/in/sai-lakshmi-rajulapati/
 
 ---
