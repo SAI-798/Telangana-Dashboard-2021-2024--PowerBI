@@ -1,4 +1,4 @@
-# Telangana-Dashboard-2021-2024--PowerBI
+
 # 🌤️ Telangana Weather Analytics & Climate Dashboard
 
 An interactive Business Intelligence dashboard built using **Microsoft Power BI** to analyze historical climate, precipitation, and thermal patterns across various districts in Telangana. This project leverages data transformation, interactive modeling, and visual analytics to provide actionable insights for agriculture, environmental policy, and regional planning.
@@ -9,16 +9,15 @@ An interactive Business Intelligence dashboard built using **Microsoft Power BI*
 
 | Overview Landing Page | Rainfall Analytics |
 | :---: | :---: |
-| ![Dashboard Overview](./Screenshot%202026-08-26%20204145.png) | ![Rainfall Analytics](./Screenshot%202026-08-26%20204224.png) |
+| <img width="598" height="298" alt="Overview Landing Page" src="https://github.com/user-attachments/assets/4529016b-f111-4582-9191-730f0008f253" /> | <img width="602" height="298" alt="Rainfall Analytics" src="https://github.com/user-attachments/assets/95044e00-5f0a-449c-972e-b9b264f4e2b9" /> |
 
 | Temperature Insights | Humidity Patterns |
 | :---: | :---: |
-| ![Temperature Insights](./Screenshot%202026-08-26%20204245.png) | ![Humidity Patterns](./Screenshot%202026-08-26%20204502.png) |
+| <img width="603" height="299" alt="Temperature Insights" src="https://github.com/user-attachments/assets/95062701-1401-4707-bebb-ac7d928a471b" /> | <img width="596" height="294" alt="Humidity Patterns" src="https://github.com/user-attachments/assets/5d4a5259-71d6-40e4-97fa-7f8eaec2dda3" /> |
 
 | Wind Speed Analysis | Comprehensive Synthesis |
 | :---: | :---: |
-| ![Wind Speed Analysis](./Screenshot%202026-08-26%20204516.png) | ![Comprehensive Insights](./Screenshot%202026-08-26%20204703.png) |
-
+| <img width="599" height="301" alt="Wind Speed Analysis" src="https://github.com/user-attachments/assets/15520f73-ba47-4a4c-a03b-6b563621406a" /> | <img width="596" height="301" alt="Comprehensive Synthesis" src="https://github.com/user-attachments/assets/9dc2caee-de60-4b5f-83f5-65cb4ccad2f8" /> |
 ---
 
 ## 📌 Dashboard Pages & Key Features
