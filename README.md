@@ -65,13 +65,6 @@ An interactive Business Intelligence dashboard built using **Microsoft Power BI*
 * **ETL & Data Transformation:** Power Query
 * **Data Modeling & Calculations:** Custom **DAX** (Data Analysis Expressions) for rolling averages, rank comparisons, variance detection, and percentage contribution metrics.
 
----
-
-## 🚀 How to View
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/telangana-weather-analytics.git](https://github.com/your-username/telangana-weather-analytics.git)
 
 ## 👨‍💻 Author
 **SAI LAKSHMI RAJULAPATI**
